@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "apkUrl": "",
-  "sha256": "",
-  "releaseNotes": "First release of ATS Sahayak"
+  "apkUrl": "https://github.com/premdigitalindia-lang/ATS-SAHAYAK-UPDATES/releases/latest/download/ATS-Sahayak-v1.0.apk",
+  "forceUpdate": false,
+  "releaseNotes": "ATS Sahayak First Release"
 }
