@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/premdigitalindia-lang/ATS-SAHAYAK-UPDATES/releases/latest/download/ATS-Sahayak-v1.1.apk",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/premdigitalindia-lang/ATS-SAHAYAK-UPDATES/releases/latest/download/ATS-Sahayak-v1.2.apk",
   "forceUpdate": false,
-  "releaseNotes": "ATS Sahayak First Release"
+  "releaseNotes": "New design, animated sliding banner, improved support section and performance updates."
 }
